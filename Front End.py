@@ -8,6 +8,7 @@ import requests
 from tensorflow.keras.preprocessing import image
 
 # Load the pretrained model
+#testtest
 model = load_model('C:/Users/MSI/Downloads/trained_model')
 
 # Download labels for ImageNet
